@@ -1,0 +1,71 @@
+@import "https://fonts.googleapis.com/css2?family=Fraunces:ital,opsz,wght@0,9..144,100;0,9..144,200;0,9..144,300;0,9..144,400;0,9..144,500;0,9..144,600;0,9..144,700;1,9..144,100&display=swap";
+@import "https://fonts.googleapis.com/css2?family=Montserrat:wght@100;200;300;400;500;600;700&display=swap";
+
+.container-fluid {
+  position: absolute;
+  background-color: #f2ebe3;
+  width: 1440px;
+  height: 800px;
+}
+.row {
+  background-color: #fff;
+  position: absolute;
+  height: 500px;
+  width: 600px;
+  left: 450px;
+  top: 140px;
+  border-radius: 20px;
+}
+.imagem {
+  position: relative;
+  width: 300px;
+  height: 500px;
+  right: 15px;
+  background-image: url(images/image-product-desktop.jpg);
+  background-size: 350px;
+  border-top-left-radius: 20px;
+  border-bottom-left-radius: 20px;
+}
+.texto {
+  position: absolute;
+  height: 500px;
+  width: 300px;
+  left: 330px;
+}
+.perfume {
+  font-family: 'Montserrat', sans-serif;
+  position: relative;
+  width: 250px;
+  top: 25px;
+}
+.nome_perfume {
+  font-family: 'Fraunces', serif;
+  position: relative;
+  width: 250px;
+  height: fit-content;
+  top: 30px;
+}
+.descricao {
+  font-size: 15px;
+  font-family: 'Montserrat', sans-serif;
+  position: relative;
+  width: 250px;
+  top: 40px;
+}
+.preco_novo {
+  font-family: 'Fraunces', serif;
+  position: relative;
+  width: fit-content;
+  top: 45px;
+  color: #369f65;
+}
+.preco_antigo {
+  position: relative;
+  top: 10px;
+  width: fit-content;
+  left: 145px;
+}
+.btn btn-success w-100 mt-3 {
+  background-color: #3CB371;
+  color: #fff;
+}
