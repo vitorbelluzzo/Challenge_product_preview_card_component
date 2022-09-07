@@ -22,7 +22,8 @@
   height: 500px;
   right: 15px;
   background-image: url(images/image-product-desktop.jpg);
-  background-size: 350px;
+  background-size: 340px;
+  background-position:right 1px;
   border-top-left-radius: 20px;
   border-bottom-left-radius: 20px;
 }
