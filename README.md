@@ -2,7 +2,7 @@
 
 > Projeto de um preview card
 
-# ⚒️ Tecnologias
+## ⚒️ Tecnologias
 
 - HTML
 - CSS
