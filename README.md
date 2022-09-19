@@ -9,4 +9,4 @@
 - BOOTSTRAP
 - GIT e GITHUB
 
-[Acesse o projeto online](https://vitorbelluzzo.github.io/Challenge_product_preview_card_component/)
+[Acesse o projeto](https://vitorbelluzzo.github.io/Challenge_product_preview_card_component/)
